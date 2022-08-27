@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlladinPk/static/css/main.073c9b0a.css",
+    "main.js": "/AlladinPk/static/js/main.a635af0d.js",
+    "static/js/787.116ca50f.chunk.js": "/AlladinPk/static/js/787.116ca50f.chunk.js",
+    "static/media/logo.svg": "/AlladinPk/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AlladinPk/index.html",
+    "main.073c9b0a.css.map": "/AlladinPk/static/css/main.073c9b0a.css.map",
+    "main.a635af0d.js.map": "/AlladinPk/static/js/main.a635af0d.js.map",
+    "787.116ca50f.chunk.js.map": "/AlladinPk/static/js/787.116ca50f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a635af0d.js"
+  ]
+}
